@@ -10,7 +10,7 @@ import jakarta.persistence.Id;
 import jakarta.persistence.Table;
 
 @Entity
-@Table(name = "tb_belongin")
+@Table(name = "tb_belonging")
  public class Belonging {
 	
 	@Id
